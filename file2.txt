@@ -1,1 +1,2 @@
 es ist file2
+es ist ein text file
